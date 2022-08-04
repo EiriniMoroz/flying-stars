@@ -1,0 +1,15 @@
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\bin\Debug\net6.0\FlyingStars.exe
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\bin\Debug\net6.0\FlyingStars.deps.json
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\bin\Debug\net6.0\FlyingStars.runtimeconfig.json
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\bin\Debug\net6.0\FlyingStars.dll
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\bin\Debug\net6.0\FlyingStars.pdb
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\obj\Debug\net6.0\FlyingStars.csproj.AssemblyReference.cache
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\obj\Debug\net6.0\FlyingStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\obj\Debug\net6.0\FlyingStars.AssemblyInfoInputs.cache
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\obj\Debug\net6.0\FlyingStars.AssemblyInfo.cs
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\obj\Debug\net6.0\FlyingStars.csproj.CoreCompileInputs.cache
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\obj\Debug\net6.0\FlyingStars.dll
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\obj\Debug\net6.0\refint\FlyingStars.dll
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\obj\Debug\net6.0\FlyingStars.pdb
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\obj\Debug\net6.0\FlyingStars.genruntimeconfig.cache
+C:\Work\TSMSU\FSVS\FlyingStars\FlyingStars\obj\Debug\net6.0\ref\FlyingStars.dll
